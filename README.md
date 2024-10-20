@@ -34,13 +34,15 @@ git clone https://github.com/Anothar/bose-landing.git
 cd bose-landing
 ```
 
-3. Install dependencies (if applicable)
+3. Make sure you are using Node.js version 14.
+
+4. Install dependencies (if applicable)
 
 ```bash
 npm install
 ```
 
-4. Start the server
+5. Start the server
 
 ```bash
 npm run start
