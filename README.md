@@ -16,6 +16,7 @@ This landing page was created to promote Bose products, such as speakers and hea
 - **Smooth Scrolling**: The landing page implements smooth scrolling for a seamless user experience.
 - **Animated Transitions**: Interactive elements are enhanced with transitions, making the site more engaging.
 - **Contact Form**: A functional form for user interaction (without backend integration).
+- **Layout with CSS Grid and Flexbox**: The layout is primarily built using CSS Grid for a flexible and responsive design, with Flexbox used in certain areas to optimize specific sections.
 
 ## Run Locally
 
